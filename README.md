@@ -1,4 +1,4 @@
-# Z80 Modular Computer
+# Z80 Modular Computer     _Writeup still in progress_
 A modular Z80-based computer using through-hole perfboard.
 ## Background
 This project started back during high school due to an interest in computer systems and to gain a better understanding of how CPU's interact with other system components. Due to being younger, proper engineering methods were not followed for this and was more of a fun spare time project.
